@@ -23,7 +23,7 @@ SECRET_KEY = '934nw3r62@!m0^ksgw3#31tntglnr%td+-_b89xpu2@q2zqv=d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['secure-castle-81699.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
